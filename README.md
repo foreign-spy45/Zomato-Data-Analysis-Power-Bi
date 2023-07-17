@@ -25,5 +25,9 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 - Cleaning individual columns.
 - Created dashboard
 
+## Images
+
+
+![image](https://github.com/foreign-spy45/Zomato-Data-Analysis-Power-Bi/assets/125883353/b1c8ab4b-6d38-4afc-a4f9-5cb8866bf712)
 
 
